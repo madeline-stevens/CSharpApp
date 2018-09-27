@@ -1,0 +1,4 @@
+/Users/maddys87/Documents/code_projects/CSharpApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/maddys87/Documents/code_projects/CSharpApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/maddys87/Documents/code_projects/CSharpApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/maddys87/Documents/code_projects/CSharpApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
