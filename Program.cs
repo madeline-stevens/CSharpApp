@@ -7,8 +7,20 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            byte number;
-            Console.WriteLine(number);
+
+            // var number = 2;
+            // var count = 10;
+            // var totalPrice = 20.95f;
+            // var character = 'A';
+            // var firstName = "maddy";
+            // var isWorking = true;
+            // Console.WriteLine(number);
+            // System.Console.WriteLine();
+
+            var a = 10;
+
+
+
         }
     }
 }

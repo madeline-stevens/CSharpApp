@@ -2,3 +2,10 @@
 /Users/maddys87/Documents/code_projects/CSharpApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
 /Users/maddys87/Documents/code_projects/CSharpApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
 /Users/maddys87/Documents/code_projects/CSharpApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/maddys87/Documents/code_projects/CSharpApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/maddys87/Documents/code_projects/CSharpApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/maddys87/Documents/code_projects/CSharpApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/maddys87/Documents/code_projects/CSharpApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/maddys87/Documents/code_projects/CSharpApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/maddys87/Documents/code_projects/CSharpApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/maddys87/Documents/code_projects/CSharpApp/obj/Debug/netcoreapp2.1/myApp.pdb
