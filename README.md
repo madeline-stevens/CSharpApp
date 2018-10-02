@@ -1,5 +1,7 @@
 # CSharpApp
 
+This is a collection of C# excercises completed with Mosh's Udemy course- C# for Beginners
+
 ## Resolved issues:
 
 1.
