@@ -13,3 +13,5 @@ Solution- I needed the myApp.csproj file which incorporates the .NET sdk into th
 
 Possible Problem- red underline on var indicating that it has not been initialized.
 Solution- To compile an application press ctrl + shift + B
+
+3.
